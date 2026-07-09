@@ -1,4 +1,5 @@
 @import "tailwindcss";
-
-
-
+#wallet::-webkit-scrollbar,
+#wallet::-webkit-scrollbar-thumb {
+  display: none;
+}
